@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="El País Translation Suite" parallel="tests" thread-count="5">
+    <test name="Chrome Windows Test">
+        <parameters>
+            <parameter name="browser" value="Chrome"/>
+            <parameter name="device" value="Windows"/>
+            <parameter name="os" value="Windows 11"/>
+        </parameters>
+        <classes>
+            <class name="com.translator.ElPaisTranslationTest"/>
+        </classes>
+    </test>
+
+    <test name="Firefox Windows Test">
+        <parameters>
+            <parameter name="browser" value="Firefox"/>
+            <parameter name="device" value="Windows"/>
+            <parameter name="os" value="Windows 11"/>
+        </parameters>
+        <classes>
+            <class name="com.translator.ElPaisTranslationTest"/>
+        </classes>
+    </test>
+
+    <test name="Safari Mac Test">
+        <parameters>
+            <parameter name="browser" value="Safari"/>
+            <parameter name="device" value="OS X"/>
+            <parameter name="os" value="Monterey"/>
+        </parameters>
+        <classes>
+            <class name="com.translator.ElPaisTranslationTest"/>
+        </classes>
+    </test>
+
+    <test name="iPhone Test">
+        <parameters>
+            <parameter name="browser" value="Safari"/>
+            <parameter name="device" value="iPhone 14"/>
+            <parameter name="os" value="iOS"/>
+        </parameters>
+        <classes>
+            <class name="com.translator.ElPaisTranslationTest"/>
+        </classes>
+    </test>
+
+    <test name="Android Test">
+        <parameters>
+            <parameter name="browser" value="Chrome"/>
+            <parameter name="device" value="Google Pixel 7"/>
+            <parameter name="os" value="Android"/>
+        </parameters>
+        <classes>
+            <class name="com.translator.ElPaisTranslationTest"/>
+        </classes>
+    </test>
+</suite>
