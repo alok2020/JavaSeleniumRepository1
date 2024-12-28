@@ -1,0 +1,11 @@
+userName: "ak_UQ2Gsq"
+accessKey: "eDHsRmFvWZvPhcDqpxVv"
+platforms:
+  - os: "Windows"
+    osVersion: "10"
+    browserName: "Chrome"
+    browserVersion: "latest"
+debug: true
+networkLogs: true
+buildName: "browserstack-build-1"
+projectName: "Translation Test Project"

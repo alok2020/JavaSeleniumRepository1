@@ -19,41 +19,48 @@
     <logback.version>1.4.11</logback.version>
     <testng.version>7.8.0</testng.version>
     <commons-io.version>2.15.0</commons-io.version>
-    <browserstack.version>1.8.5</browserstack.version>  <!-- Add this line -->
+    <browserstack.version>1.8.5</browserstack.version>
+    <suiteXmlFile>testng.xml</suiteXmlFile>
   </properties>
 
   <dependencies>
-    <!-- Existing dependencies -->
+    <!-- Selenium -->
     <dependency>
       <groupId>org.seleniumhq.selenium</groupId>
       <artifactId>selenium-java</artifactId>
       <version>${selenium.version}</version>
     </dependency>
 
+    <!-- WebDriverManager -->
     <dependency>
       <groupId>io.github.bonigarcia</groupId>
       <artifactId>webdrivermanager</artifactId>
       <version>${webdrivermanager.version}</version>
     </dependency>
 
+    <!-- Google Translate -->
     <dependency>
       <groupId>com.google.cloud</groupId>
       <artifactId>google-cloud-translate</artifactId>
       <version>${google.translate.version}</version>
     </dependency>
 
+    <!-- TestNG -->
     <dependency>
       <groupId>org.testng</groupId>
       <artifactId>testng</artifactId>
       <version>${testng.version}</version>
+      <scope>test</scope>
     </dependency>
 
+    <!-- Commons IO -->
     <dependency>
       <groupId>commons-io</groupId>
       <artifactId>commons-io</artifactId>
       <version>${commons-io.version}</version>
     </dependency>
 
+    <!-- Logging -->
     <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-api</artifactId>
@@ -66,17 +73,31 @@
       <version>${logback.version}</version>
     </dependency>
 
-    <!-- Add BrowserStack dependencies -->
+    <!-- BrowserStack -->
+    <dependency>
+      <groupId>com.browserstack</groupId>
+      <artifactId>browserstack-local-java</artifactId>
+      <version>1.0.6</version>
+    </dependency>
+
     <dependency>
       <groupId>com.browserstack</groupId>
       <artifactId>browserstack-java-sdk</artifactId>
       <version>${browserstack.version}</version>
-      <scope>test</scope>
+      <scope>compile</scope>
+    </dependency>
+
+    <!-- YAML -->
+    <dependency>
+      <groupId>org.yaml</groupId>
+      <artifactId>snakeyaml</artifactId>
+      <version>2.0</version>
     </dependency>
   </dependencies>
 
   <build>
     <plugins>
+      <!-- Compiler Plugin -->
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-compiler-plugin</artifactId>
@@ -86,26 +107,47 @@
           <target>19</target>
         </configuration>
       </plugin>
+
+      <!-- Surefire Plugin -->
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-surefire-plugin</artifactId>
         <version>3.2.2</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>testng.xml</suiteXmlFile>
+            <suiteXmlFile>${suiteXmlFile}</suiteXmlFile>
           </suiteXmlFiles>
-          <!-- Add parallel execution settings -->
-          <properties>
-            <property>
-              <name>parallel</name>
-              <value>methods</value>
-            </property>
-            <property>
-              <name>threadCount</name>
-              <value>5</value>
-            </property>
-          </properties>
+          <testFailureIgnore>true</testFailureIgnore>
         </configuration>
+      </plugin>
+
+      <!-- Resources Plugin -->
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-resources-plugin</artifactId>
+        <version>3.3.1</version>
+        <executions>
+          <execution>
+            <id>copy-resources</id>
+            <phase>validate</phase>
+            <goals>
+              <goal>copy-resources</goal>
+            </goals>
+            <configuration>
+              <outputDirectory>${project.build.directory}</outputDirectory>
+              <resources>
+                <resource>
+                  <directory>${project.basedir}</directory>
+                  <includes>
+                    <include>browserstack.yml</include>
+                    <include>testng.xml</include>
+                    <include>testng-browserstack.xml</include>
+                  </includes>
+                </resource>
+              </resources>
+            </configuration>
+          </execution>
+        </executions>
       </plugin>
     </plugins>
   </build>

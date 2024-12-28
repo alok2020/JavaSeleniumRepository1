@@ -170,3 +170,1614 @@
 02:06:43.284 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
 02:06:43.285 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
 02:06:43.285 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:30:49.325 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:30:49.909 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:30:49.951 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:30:49.951 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:30:51.514 [TestNG-test=Chrome Windows Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:30:51.517 [TestNG-test=Chrome Windows Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:01.040 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:05.162 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:11.504 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:31:11.518 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:15.511 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - ERROR
+23:31:15.514 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:19.325 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:19.352 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:19.354 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:19.354 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:20.032 [TestNG-test=Firefox Windows Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:31:20.032 [TestNG-test=Firefox Windows Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:38.087 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:38.240 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:41.491 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:41.582 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:49.115 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:49.115 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:49.115 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:52.851 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:53.256 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:31:53.256 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:53.257 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:57.013 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:57.055 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:57.056 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:57.063 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:31:57.471 [TestNG-test=Safari Mac Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:31:57.471 [TestNG-test=Safari Mac Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:14.600 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:14.649 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:17.109 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:17.172 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:23.509 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:23.509 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:23.509 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:24.882 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:25.264 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:32:25.264 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:25.264 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:28.573 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:28.623 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:28.624 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:28.625 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:29.008 [TestNG-test=iPhone Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:32:29.008 [TestNG-test=iPhone Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:39.573 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:39.684 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:44.831 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:44.831 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:44.831 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:47.155 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:47.216 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:57.766 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:58.083 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:32:58.083 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:32:58.083 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:33:01.907 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:33:01.954 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:33:01.955 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:33:01.957 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:33:02.421 [TestNG-test=Android Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:33:02.421 [TestNG-test=Android Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:33:44.582 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:33:44.644 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:33:48.790 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:33:48.836 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:33:50.162 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:33:50.429 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:33:50.429 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:33:50.430 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:33:54.335 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:33:54.335 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:33:54.335 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:09.882 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:10.664 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:10.701 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:10.704 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:12.271 [TestNG-test=Chrome Windows Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:35:12.275 [TestNG-test=Chrome Windows Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:27.820 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:27.901 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:29.459 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:29.526 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:36.422 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:36.750 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:35:36.751 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:36.751 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:37.589 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:37.589 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:37.589 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:40.761 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:40.814 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:40.821 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:40.828 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:41.266 [TestNG-test=Firefox Windows Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:35:41.267 [TestNG-test=Firefox Windows Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:58.099 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:58.148 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:59.700 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:35:59.749 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:07.001 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:07.321 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:36:07.322 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:07.322 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:08.608 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:08.608 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:08.609 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:11.820 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:11.907 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:11.909 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:11.911 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:12.348 [TestNG-test=Safari Mac Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:36:12.349 [TestNG-test=Safari Mac Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:28.866 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:28.919 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:30.162 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:30.356 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:39.438 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:39.438 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:39.438 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:39.660 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:40.036 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:36:40.037 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:40.037 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:43.738 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:43.779 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:43.788 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:43.789 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:36:44.230 [TestNG-test=iPhone Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:36:44.231 [TestNG-test=iPhone Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:03.947 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:04.055 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:05.701 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:05.753 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:13.072 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:13.072 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:13.072 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:14.102 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:14.445 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:37:14.445 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:14.446 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:17.907 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:17.951 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:17.952 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:17.955 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:18.391 [TestNG-test=Android Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:37:18.391 [TestNG-test=Android Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:37.175 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:37.227 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:42.421 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:42.510 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:47.031 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:47.031 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:47.031 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:50.727 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:51.107 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:37:51.107 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:37:51.107 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:44:04.717 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:44:05.193 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:44:05.249 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:44:05.258 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:44:07.830 [TestNG-test=Chrome Windows Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:44:07.833 [TestNG-test=Chrome Windows Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:44:26.556 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:44:26.621 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:44:29.158 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:44:29.201 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:44:33.381 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:44:33.691 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:44:33.691 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:44:33.692 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:44:35.377 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:44:35.377 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:44:35.377 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:44:39.004 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:44:39.113 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:44:39.115 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:44:39.115 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:44:39.908 [TestNG-test=Firefox Windows Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:44:39.910 [TestNG-test=Firefox Windows Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:45:21.260 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:45:21.336 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:45:24.514 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:45:24.576 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:45:26.977 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:45:27.204 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:45:27.204 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:45:27.204 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:45:29.961 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:45:29.961 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:45:29.961 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:45:32.829 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:45:32.936 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:45:32.938 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:45:32.951 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:45:33.599 [TestNG-test=Safari Mac Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:45:33.600 [TestNG-test=Safari Mac Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:46:17.426 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:46:17.463 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:46:21.354 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:46:21.413 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:46:25.051 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:46:25.262 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:46:25.262 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:46:25.263 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:46:29.438 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:46:29.438 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:46:29.438 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:46:33.633 [TestNG-test=iPhone Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:46:33.678 [TestNG-test=iPhone Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:46:33.681 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:46:33.702 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:46:34.164 [TestNG-test=iPhone Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:46:34.164 [TestNG-test=iPhone Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:47:11.815 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:47:11.956 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:47:18.632 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:47:18.874 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:47:18.874 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:47:18.874 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:47:22.288 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:47:22.323 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:47:28.098 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:47:28.098 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:47:28.098 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:47:32.143 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:47:32.189 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:47:32.206 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:47:32.224 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:47:32.655 [TestNG-test=Android Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:47:32.655 [TestNG-test=Android Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:48:04.354 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:48:04.372 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:48:04.430 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:48:04.441 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:48:15.141 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:48:15.141 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:48:15.141 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:48:15.161 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:48:15.356 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:48:15.357 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:48:15.357 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:51:22.321 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:51:23.258 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:51:23.368 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:51:23.386 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:51:25.073 [TestNG-test=Chrome Windows Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:51:25.078 [TestNG-test=Chrome Windows Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:51:34.715 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:51:34.742 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:51:34.937 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:51:35.021 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:51:55.833 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:51:55.834 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:51:55.835 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:51:55.851 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:51:56.072 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:51:56.072 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:51:56.073 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:00.602 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:00.651 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:00.652 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:00.657 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:01.046 [TestNG-test=Firefox Windows Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:52:01.046 [TestNG-test=Firefox Windows Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:11.604 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:11.703 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:18.775 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:18.818 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:18.819 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:18.819 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:18.840 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:25.538 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:25.759 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:52:25.759 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:25.760 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:30.369 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:30.410 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:30.411 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:30.417 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:30.790 [TestNG-test=Safari Mac Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:52:30.791 [TestNG-test=Safari Mac Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:48.311 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:48.776 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:50.713 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:52:50.788 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:53:00.259 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:53:00.259 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:53:00.259 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:53:02.466 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:53:02.686 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:53:02.686 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:53:02.686 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:53:06.897 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:53:06.942 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:53:06.944 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:53:06.945 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:53:07.437 [TestNG-test=iPhone Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:53:07.437 [TestNG-test=iPhone Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:53:52.335 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:53:52.439 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:53:56.484 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:53:56.558 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:54:03.595 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:54:03.596 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:54:03.596 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:54:05.590 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:54:05.828 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:54:05.828 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:54:05.829 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:54:10.332 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:54:10.382 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:54:10.397 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:54:10.400 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:54:10.828 [TestNG-test=Android Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:54:10.828 [TestNG-test=Android Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:54:28.257 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:54:29.001 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:54:30.992 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:54:31.089 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:54:40.081 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:54:40.277 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:54:40.277 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:54:40.277 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:54:40.834 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:54:40.834 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:54:40.835 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:58:57.490 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:58:58.034 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:58:58.080 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:58:58.090 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:00.014 [TestNG-test=Chrome Windows Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:59:00.023 [TestNG-test=Chrome Windows Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:17.479 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:17.575 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:19.318 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:19.455 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:29.767 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:29.768 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:29.769 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:31.083 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:31.396 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:59:31.397 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:31.397 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:36.193 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:36.382 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:36.384 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:36.390 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:37.056 [TestNG-test=Firefox Windows Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:59:37.057 [TestNG-test=Firefox Windows Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:54.344 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:54.422 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:55.969 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:59:56.043 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:06.536 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:06.536 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:06.537 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:08.070 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:08.463 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+00:00:08.463 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:08.463 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:13.482 [TestNG-test=Safari Mac Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:13.542 [TestNG-test=Safari Mac Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:13.558 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:13.565 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:14.150 [TestNG-test=Safari Mac Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+00:00:14.150 [TestNG-test=Safari Mac Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:31.461 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:31.532 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:33.248 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:33.313 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:43.056 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:43.364 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+00:00:43.364 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:43.365 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:44.785 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:44.786 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:44.786 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:49.847 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:49.887 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:49.888 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:49.895 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:00:50.485 [TestNG-test=iPhone Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+00:00:50.485 [TestNG-test=iPhone Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:09.026 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:09.093 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:10.767 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:10.818 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:20.567 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:20.567 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:20.568 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:22.152 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:22.458 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+00:01:22.459 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:22.459 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:27.436 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:27.484 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:27.486 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:27.487 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:28.024 [TestNG-test=Android Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+00:01:28.025 [TestNG-test=Android Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:44.074 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:44.200 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:45.952 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:46.025 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:55.728 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:55.728 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:55.728 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:56.809 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:57.105 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+00:01:57.105 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:01:57.105 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:10:55.699 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:10:56.249 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:10:56.291 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:10:56.297 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:10:58.089 [TestNG-test=Chrome Windows Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+00:10:58.095 [TestNG-test=Chrome Windows Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:14.565 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:14.632 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:15.807 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:15.854 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:21.767 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:21.767 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:21.767 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:22.170 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:22.462 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+00:11:22.462 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:22.463 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:25.224 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:25.270 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:25.271 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:25.275 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:25.723 [TestNG-test=Firefox Windows Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+00:11:25.723 [TestNG-test=Firefox Windows Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:42.117 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:42.161 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:43.654 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:43.692 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:47.412 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:47.714 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+00:11:47.714 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:47.714 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:48.750 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:48.750 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:48.750 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:51.403 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:51.440 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:51.441 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:51.443 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:11:51.866 [TestNG-test=Safari Mac Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+00:11:51.866 [TestNG-test=Safari Mac Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:08.158 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:08.218 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:09.205 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:09.246 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:13.983 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:13.983 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:13.983 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:14.903 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:15.160 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+00:12:15.160 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:15.160 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:17.963 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:18.054 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:18.055 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:18.071 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:18.459 [TestNG-test=iPhone Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+00:12:18.459 [TestNG-test=iPhone Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:36.619 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:36.663 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:38.217 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:38.262 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:42.187 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:42.467 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+00:12:42.467 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:42.467 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:43.708 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:43.708 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:43.708 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:46.522 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:46.594 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:46.597 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:46.608 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:12:47.057 [TestNG-test=Android Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+00:12:47.058 [TestNG-test=Android Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+00:13:03.970 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:13:04.030 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:13:04.977 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:13:05.014 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:13:09.747 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:13:10.031 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+00:13:10.031 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:13:10.031 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:13:10.673 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:13:10.673 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:13:10.673 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:12.353 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:12.773 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:12.839 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:12.880 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:14.478 [TestNG-test=Chrome Windows Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+00:19:14.483 [TestNG-test=Chrome Windows Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:30.584 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:30.635 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:31.931 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:31.994 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:38.601 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:38.601 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:38.601 [TestNG-test=Chrome Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:39.050 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:39.329 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+00:19:39.329 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:39.329 [TestNG-test=Chrome Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:42.472 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:42.581 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:42.584 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:42.585 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:43.130 [TestNG-test=Firefox Windows Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+00:19:43.131 [TestNG-test=Firefox Windows Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:59.892 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:19:59.934 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:02.111 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:02.152 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:05.678 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:05.678 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:05.678 [TestNG-test=Firefox Windows Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:07.344 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:07.603 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+00:20:07.603 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:07.603 [TestNG-test=Firefox Windows Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:10.549 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:10.586 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:10.589 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:10.593 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:11.006 [TestNG-test=Safari Mac Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+00:20:11.006 [TestNG-test=Safari Mac Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:21.153 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:21.199 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:25.155 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:25.155 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:25.156 [TestNG-test=Safari Mac Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:29.803 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:29.823 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:34.475 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:34.751 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+00:20:34.751 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:34.751 [TestNG-test=Safari Mac Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:37.618 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:37.668 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:37.670 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:37.670 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:38.074 [TestNG-test=iPhone Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+00:20:38.074 [TestNG-test=iPhone Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:48.362 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:48.414 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:52.271 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:52.271 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:52.271 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:54.681 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:54.728 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:58.325 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:58.581 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+00:20:58.582 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:20:58.582 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:21:01.601 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:21:01.638 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:21:01.639 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:21:01.640 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:21:02.068 [TestNG-test=Android Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+00:21:02.068 [TestNG-test=Android Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+00:21:19.024 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:21:19.062 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:21:21.187 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:21:21.224 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:21:23.981 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:21:24.263 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+00:21:24.263 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:21:24.263 [TestNG-test=Android Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+00:21:25.981 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:21:25.981 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+00:21:25.981 [TestNG-test=Android Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:00.679 [TestNG-test=Windows Chrome Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:01.115 [TestNG-test=Windows Chrome Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:01.160 [TestNG-test=Windows Chrome Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:01.187 [TestNG-test=Windows Chrome Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:02.713 [TestNG-test=Windows Chrome Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+01:40:02.722 [TestNG-test=Windows Chrome Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:18.464 [TestNG-test=Windows Chrome Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:18.529 [TestNG-test=Windows Chrome Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:22.271 [TestNG-test=Windows Chrome Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:22.420 [TestNG-test=Windows Chrome Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:30.700 [TestNG-test=Windows Chrome Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:30.895 [TestNG-test=Windows Chrome Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+01:40:30.895 [TestNG-test=Windows Chrome Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:30.895 [TestNG-test=Windows Chrome Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:31.699 [TestNG-test=Windows Chrome Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:31.699 [TestNG-test=Windows Chrome Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:31.699 [TestNG-test=Windows Chrome Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:34.837 [TestNG-test=MacOS Safari Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:34.905 [TestNG-test=MacOS Safari Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:34.907 [TestNG-test=MacOS Safari Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:34.909 [TestNG-test=MacOS Safari Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:35.268 [TestNG-test=MacOS Safari Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+01:40:35.270 [TestNG-test=MacOS Safari Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:52.122 [TestNG-test=MacOS Safari Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:52.171 [TestNG-test=MacOS Safari Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:54.775 [TestNG-test=MacOS Safari Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:54.806 [TestNG-test=MacOS Safari Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:56.000 [TestNG-test=MacOS Safari Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:56.204 [TestNG-test=MacOS Safari Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+01:40:56.204 [TestNG-test=MacOS Safari Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:56.204 [TestNG-test=MacOS Safari Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:58.602 [TestNG-test=MacOS Safari Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:58.602 [TestNG-test=MacOS Safari Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:40:58.603 [TestNG-test=MacOS Safari Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:41:01.289 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:41:01.336 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:41:01.338 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:41:01.339 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:41:02.039 [TestNG-test=iPhone Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+01:41:02.039 [TestNG-test=iPhone Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+01:41:18.824 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:41:18.869 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:41:20.403 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:41:20.450 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:41:24.155 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:41:24.155 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:41:24.155 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:41:25.819 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:41:26.012 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+01:41:26.012 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:41:26.013 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:52:49.178 [TestNG-test=Windows Chrome Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:52:49.654 [TestNG-test=Windows Chrome Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:52:49.711 [TestNG-test=Windows Chrome Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:52:49.712 [TestNG-test=Windows Chrome Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:52:51.412 [TestNG-test=Windows Chrome Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+01:52:51.415 [TestNG-test=Windows Chrome Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+01:53:13.006 [TestNG-test=Windows Chrome Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:53:13.054 [TestNG-test=Windows Chrome Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:53:50.228 [TestNG-test=Windows Chrome Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:53:50.646 [TestNG-test=Windows Chrome Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:53:50.680 [TestNG-test=Windows Chrome Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:53:50.682 [TestNG-test=Windows Chrome Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:53:51.893 [TestNG-test=Windows Chrome Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+01:53:51.897 [TestNG-test=Windows Chrome Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:08.717 [TestNG-test=Windows Chrome Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:08.773 [TestNG-test=Windows Chrome Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:10.263 [TestNG-test=Windows Chrome Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:10.295 [TestNG-test=Windows Chrome Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:13.782 [TestNG-test=Windows Chrome Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:14.088 [TestNG-test=Windows Chrome Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+01:54:14.088 [TestNG-test=Windows Chrome Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:14.088 [TestNG-test=Windows Chrome Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:14.961 [TestNG-test=Windows Chrome Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:14.961 [TestNG-test=Windows Chrome Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:14.962 [TestNG-test=Windows Chrome Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:17.795 [TestNG-test=MacOS Safari Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:17.846 [TestNG-test=MacOS Safari Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:17.847 [TestNG-test=MacOS Safari Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:17.850 [TestNG-test=MacOS Safari Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:18.279 [TestNG-test=MacOS Safari Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+01:54:18.280 [TestNG-test=MacOS Safari Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:35.171 [TestNG-test=MacOS Safari Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:35.220 [TestNG-test=MacOS Safari Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:36.756 [TestNG-test=MacOS Safari Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:36.790 [TestNG-test=MacOS Safari Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:39.597 [TestNG-test=MacOS Safari Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:39.597 [TestNG-test=MacOS Safari Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:39.597 [TestNG-test=MacOS Safari Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:41.058 [TestNG-test=MacOS Safari Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:41.355 [TestNG-test=MacOS Safari Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+01:54:41.355 [TestNG-test=MacOS Safari Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:41.356 [TestNG-test=MacOS Safari Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:44.150 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:44.286 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:44.287 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:44.295 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:54:44.812 [TestNG-test=iPhone Test-2] INFO  c.b.config.BrowserStackConfig - ERROR
+01:54:44.812 [TestNG-test=iPhone Test-2] INFO  c.b.config.BrowserStackConfig - INFO
+01:55:01.677 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:55:01.738 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:55:03.797 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:55:03.827 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:55:05.906 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:55:05.906 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:55:05.906 [TestNG-test=iPhone Test-1] INFO  c.b.config.BrowserStackConfig - INFO
+01:55:07.584 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:55:07.841 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - ERROR
+01:55:07.841 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+01:55:07.842 [TestNG-test=iPhone Test-3] INFO  c.b.config.BrowserStackConfig - INFO
+02:05:46.706 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:05:47.135 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:05:47.165 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:06:09.146 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:06:09.194 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:06:13.660 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:06:13.662 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:06:13.662 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:06:14.762 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
+02:06:14.762 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:06:14.765 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:06:28.732 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:06:28.770 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:06:31.802 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:06:32.078 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
+02:06:32.079 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:06:32.079 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:08:04.089 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:08:08.092 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:08:08.450 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:08:08.477 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:08:25.857 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:08:25.924 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:08:29.717 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:08:29.720 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:08:29.721 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:08:31.215 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
+02:08:31.215 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:08:31.217 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:08:43.030 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:08:43.074 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:08:46.642 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:08:46.930 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
+02:08:46.931 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:08:46.931 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:17:24.072 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:17:24.081 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:17:24.084 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:17:24.095 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:17:24.095 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:17:24.095 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:17:25.049 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+02:17:25.054 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+02:21:33.791 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:21:33.800 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:21:33.810 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:21:40.540 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:21:40.540 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:21:42.404 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:21:43.912 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:38:43.064 [TestNG-tests-5] INFO  c.b.config.BrowserStackConfig - INFO
+02:38:43.072 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:38:43.170 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+02:38:44.322 [TestNG-tests-4] INFO  c.b.config.BrowserStackConfig - INFO
+02:38:44.519 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:38:44.520 [TestNG-tests-4] INFO  c.b.config.BrowserStackConfig - INFO
+02:38:44.519 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+02:38:44.520 [TestNG-tests-5] INFO  c.b.config.BrowserStackConfig - INFO
+02:38:44.627 [TestNG-tests-4] INFO  c.b.config.BrowserStackConfig - INFO
+02:38:44.628 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:38:44.630 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+02:38:44.633 [TestNG-tests-5] INFO  c.b.config.BrowserStackConfig - INFO
+02:38:45.986 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:38:45.993 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:38:45.998 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:10.555 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:10.596 [TestNG-tests-5] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:10.658 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:10.672 [TestNG-tests-5] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:18.547 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:18.551 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:18.551 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:18.830 [TestNG-tests-5] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:18.830 [TestNG-tests-5] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:18.831 [TestNG-tests-5] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:19.807 [TestNG-tests-5] INFO  c.b.config.BrowserStackConfig - ERROR
+02:39:19.808 [TestNG-tests-5] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:19.813 [TestNG-tests-5] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:19.873 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
+02:39:19.873 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:19.875 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:21.915 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:21.919 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:21.920 [TestNG-tests-4] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:23.652 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:23.787 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:24.129 [TestNG-tests-4] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:45.992 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:45.992 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:45.993 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:46.378 [TestNG-tests-4] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:46.378 [TestNG-tests-4] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:46.379 [TestNG-tests-4] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:46.491 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - ERROR
+02:39:46.491 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:46.494 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:46.755 [TestNG-tests-4] INFO  c.b.config.BrowserStackConfig - ERROR
+02:39:46.755 [TestNG-tests-4] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:46.756 [TestNG-tests-4] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:47.496 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:47.497 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:47.497 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:47.757 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - ERROR
+02:39:47.757 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:47.758 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:48.860 [TestNG-tests-5] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:48.863 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:48.930 [TestNG-tests-5] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:48.930 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:56.262 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:56.486 [TestNG-tests-5] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:56.587 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
+02:39:56.587 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:56.587 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:56.770 [TestNG-tests-5] INFO  c.b.config.BrowserStackConfig - ERROR
+02:39:56.771 [TestNG-tests-5] INFO  c.b.config.BrowserStackConfig - INFO
+02:39:56.771 [TestNG-tests-5] INFO  c.b.config.BrowserStackConfig - INFO
+02:40:02.853 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:40:02.877 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:40:03.320 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+02:40:03.339 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+02:40:03.384 [TestNG-tests-4] INFO  c.b.config.BrowserStackConfig - INFO
+02:40:03.418 [TestNG-tests-4] INFO  c.b.config.BrowserStackConfig - INFO
+02:40:13.551 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:40:13.814 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - ERROR
+02:40:13.815 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:40:13.815 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:40:14.361 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+02:40:14.504 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - ERROR
+02:40:14.504 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+02:40:14.505 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+02:40:15.336 [TestNG-tests-4] INFO  c.b.config.BrowserStackConfig - INFO
+02:40:15.481 [TestNG-tests-4] INFO  c.b.config.BrowserStackConfig - ERROR
+02:40:15.481 [TestNG-tests-4] INFO  c.b.config.BrowserStackConfig - INFO
+02:40:15.481 [TestNG-tests-4] INFO  c.b.config.BrowserStackConfig - INFO
+02:44:09.939 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:44:10.380 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:44:12.018 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
+02:44:12.021 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:24.934 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:24.934 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:25.411 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:25.411 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:25.452 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:25.472 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:36.388 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:36.407 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:36.452 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:36.456 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:42.560 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:42.563 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:42.564 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:43.872 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - ERROR
+02:48:43.872 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:43.877 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:44.545 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:44.546 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:44.546 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:44.821 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
+02:48:44.821 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:44.823 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:58.116 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:58.139 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:58.637 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:58.673 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:49:02.468 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:49:02.725 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:49:02.759 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - ERROR
+02:49:02.759 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:49:02.759 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+02:49:02.994 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
+02:49:02.994 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:49:02.994 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:52:13.268 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:52:13.688 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:52:13.729 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:52:32.325 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:52:32.390 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:52:36.974 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:52:36.976 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:52:36.977 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:52:38.315 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
+02:52:38.315 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+02:56:19.883 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:56:20.314 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:56:20.353 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:56:31.176 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:56:31.235 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:56:36.391 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:56:36.393 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:56:36.394 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:56:37.237 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+02:56:37.238 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:56:37.240 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:56:51.112 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:56:51.156 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:56:54.377 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:56:54.578 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+02:56:54.578 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:56:54.578 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:13:54.796 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:13:55.220 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:13:55.227 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:13:59.346 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:01.181 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:01.184 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:01.186 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:09.889 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - ERROR
+16:14:09.889 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:10.802 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:10.813 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:10.813 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:12.850 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:16.916 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:19.283 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:19.288 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:19.289 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:23.166 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
+16:14:23.166 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:24.992 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:27.277 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - ERROR
+16:14:27.279 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:35.250 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - ERROR
+16:14:35.252 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:39.553 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:39.582 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:39.584 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:49.622 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:54.300 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:54.312 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:54.324 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:14:59.723 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
+16:14:59.724 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:15:26.444 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:15:36.627 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - ERROR
+16:15:36.628 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:35:48.908 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:35:48.908 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:35:48.908 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:35:48.930 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:35:48.930 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:35:48.930 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:35:52.392 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - ERROR
+16:35:52.392 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
+16:35:52.392 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - ERROR
+16:37:02.182 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:37:02.184 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:37:02.182 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:37:02.194 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:37:02.194 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:37:02.195 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:37:04.989 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - ERROR
+16:37:04.999 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
+16:37:05.000 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - ERROR
+16:38:59.748 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:38:59.748 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:38:59.748 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:38:59.763 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:38:59.765 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:38:59.765 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:06.872 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:06.884 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:07.230 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:07.236 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:07.236 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:08.758 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:08.759 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:08.770 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:08.772 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:08.774 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:13.027 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:13.028 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:13.035 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:13.037 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:13.039 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:32.437 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:32.438 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:39.762 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:39.762 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:59.261 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:39:59.262 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:13.013 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:14.234 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:15.404 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:16.598 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:17.932 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:19.277 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:19.279 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:19.279 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:19.282 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:19.282 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:19.283 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:19.283 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:19.284 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:19.294 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:20.074 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:20.857 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:20.861 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:20.862 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:21.653 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:23.083 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:24.478 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:25.757 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:25.757 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:25.766 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:25.767 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:25.767 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:26.120 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:27.933 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:27.934 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:27.934 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:27.934 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:27.935 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:27.935 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:27.936 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:27.936 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:27.939 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:29.382 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:29.385 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:29.386 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:38.166 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:38.166 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:38.188 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:38.189 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:38.189 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:40.170 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:41.351 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:42.569 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:43.874 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:45.330 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:46.733 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:46.734 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:46.735 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:46.735 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:46.735 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:46.735 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:46.736 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:46.736 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:46.739 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:48.112 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:48.115 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:48.115 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:50.011 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:40:50.011 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:05.628 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:05.628 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:05.639 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:05.640 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:05.640 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:08.995 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:08.996 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:30.369 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:31.615 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:32.889 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:32.889 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:34.194 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - ERROR
+16:41:34.194 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:34.296 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - ERROR
+16:41:34.297 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:34.298 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:34.409 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:34.410 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:35.794 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:49.756 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:51.480 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:53.026 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:53.026 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:53.495 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
+16:41:53.496 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:53.600 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
+16:41:53.600 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:53.604 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:41:54.908 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:42:15.364 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:42:16.733 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:42:18.067 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:42:18.069 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:42:18.701 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - ERROR
+16:42:18.702 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:42:18.834 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - ERROR
+16:42:18.834 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:42:18.837 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:42:20.151 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:09.199 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:09.199 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:09.199 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:09.212 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:09.212 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:09.212 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:15.800 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:15.808 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:16.236 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:16.245 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:16.245 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:19.477 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:19.478 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:19.482 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:19.484 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:19.485 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:30.146 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:30.146 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:30.173 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:30.173 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:30.175 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:40.762 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:40.763 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:55.612 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:46:55.612 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:07.016 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:07.016 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:21.549 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:22.805 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:24.041 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:25.266 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:26.660 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:28.056 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:28.057 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:28.057 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:28.059 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:28.059 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:28.060 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:28.060 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:28.061 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:28.074 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:29.729 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:29.732 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:29.733 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:34.651 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:34.652 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:34.664 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:34.665 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:34.666 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:37.119 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:38.585 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:39.842 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:41.145 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:42.564 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:44.072 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:44.073 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:44.073 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:44.073 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:44.073 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:44.074 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:44.075 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:44.076 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:44.079 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:45.472 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:45.477 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:45.477 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:47.775 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:49.294 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:50.784 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:52.354 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:54.088 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:55.791 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:55.791 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:55.791 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:55.793 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:55.793 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:55.793 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:55.794 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:55.794 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:55.798 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:57.154 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:57.159 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:57.160 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:03.729 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:03.729 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:03.743 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:03.744 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:03.744 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:04.012 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:04.013 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:06.468 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:06.469 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:06.477 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:06.479 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:06.479 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:30.754 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:30.755 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:34.335 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:34.335 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:45.011 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:46.244 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:47.427 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:47.427 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:48.553 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:48.734 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:48.736 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:50.303 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+16:49:12.024 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:49:13.557 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:49:15.172 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:49:15.213 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:49:15.213 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:49:15.705 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:49:15.863 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:49:15.864 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:49:16.477 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:49:17.191 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+16:49:17.813 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:49:17.814 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:49:18.110 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:49:18.290 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:49:18.292 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:49:19.683 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+16:51:44.938 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:51:47.746 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:51:47.838 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:51:47.856 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:51:50.903 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:51:51.229 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:51:51.232 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:51:51.234 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:08.609 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:08.672 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:12.033 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:12.033 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:13.145 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:13.307 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:13.493 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:14.202 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:14.202 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:14.428 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:14.429 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:14.719 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:14.909 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:15.116 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:15.324 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:16.309 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:16.309 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:16.469 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:16.619 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:16.793 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:16.978 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:17.101 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:18.054 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:18.054 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:19.129 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:19.130 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:20.073 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:20.074 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:21.050 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:21.051 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:21.878 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:21.879 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:22.042 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:22.043 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:22.925 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:22.927 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:23.925 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:23.926 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:24.153 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:24.153 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:24.399 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:24.400 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:24.576 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:24.756 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:24.757 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:24.771 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:09.331 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:09.331 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:09.331 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:09.350 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:09.350 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:09.350 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:16.202 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:16.213 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:16.615 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:16.619 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:16.620 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:18.843 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:18.843 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:18.850 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:18.853 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:18.853 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:37.397 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:37.398 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:37.457 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:37.462 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:37.462 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:51.756 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:51.757 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:51.912 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:52.975 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:54.011 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:55.025 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:55.966 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:57.208 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:57.209 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:57.209 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:57.211 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:57.211 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:57.212 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:57.212 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:57.212 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:57.223 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:58.671 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:58.677 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:58.678 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:03.317 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:03.317 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:03.325 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:03.327 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:03.327 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:04.697 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:04.697 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:04.889 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:06.098 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:07.227 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:08.375 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:09.458 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:10.861 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:10.862 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:10.862 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:10.862 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:10.863 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:10.863 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:10.863 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:10.864 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:10.868 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:12.210 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:12.214 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:12.214 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:12.698 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:12.699 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:12.879 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:13.960 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:15.018 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:16.102 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:17.041 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:18.237 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:18.237 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:18.237 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:18.238 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:18.238 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:18.238 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:18.238 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:18.239 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:18.243 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:19.570 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:19.572 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:19.572 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:20.366 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:20.366 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:20.401 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:20.402 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:20.402 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:36.828 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:36.828 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:36.944 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:36.944 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:36.950 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:36.964 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:36.965 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:36.966 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:37.935 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:38.921 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:38.921 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:40.177 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - ERROR
+17:04:40.177 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:40.329 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - ERROR
+17:04:40.330 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:40.332 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:04:41.858 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:05:11.143 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:05:11.144 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:05:11.363 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:05:13.320 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:05:13.523 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:05:13.523 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:05:13.656 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:05:14.453 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:05:14.454 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:05:14.704 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:05:15.048 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
+17:05:15.048 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:05:15.279 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
+17:05:15.280 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:05:15.284 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:05:15.756 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:05:15.757 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:05:16.028 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - ERROR
+17:05:16.029 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:05:16.190 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - ERROR
+17:05:16.190 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:05:16.191 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:05:16.657 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:05:17.595 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:14:48.528 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:14:48.528 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:14:48.528 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:14:48.543 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:14:48.543 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:14:48.544 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:14:56.722 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:14:56.763 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:14:57.591 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:14:57.592 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:14:58.198 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:14:58.201 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:14:58.218 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:14:58.221 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:14:58.221 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:14:58.221 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:10.938 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:10.939 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:10.976 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:10.978 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:10.980 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:34.140 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:34.142 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:34.217 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:34.283 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:35.610 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:36.829 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:38.015 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:39.111 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:39.111 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:39.125 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:39.221 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:39.349 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:40.087 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:40.088 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:40.089 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:40.091 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:40.091 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:40.091 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:40.092 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:40.092 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:40.103 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:41.610 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:41.722 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:41.726 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:41.726 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:43.047 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:44.378 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:45.398 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:45.399 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:45.423 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:45.424 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:45.424 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:45.581 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:46.676 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:46.677 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:46.679 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:46.679 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:46.680 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:46.680 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:46.681 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:46.681 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:46.687 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:48.038 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:48.040 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:48.041 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:51.329 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:51.329 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:51.410 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:51.555 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:54.298 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:54.298 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:54.310 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:54.312 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:54.312 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:55.743 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:57.098 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:58.511 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:15:59.543 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:00.541 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:00.541 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:00.542 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:00.542 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:00.542 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:00.542 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:00.542 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:00.542 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:00.546 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:01.852 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:01.856 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:01.859 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:17.864 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:17.865 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:17.913 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:17.914 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:17.914 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:22.963 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:22.964 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:23.059 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:23.116 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:24.351 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:25.724 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:25.725 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:27.094 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - ERROR
+17:16:27.094 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:27.243 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - ERROR
+17:16:27.243 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:27.244 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:28.980 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:39.906 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:39.906 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:40.088 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:40.755 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:42.347 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:43.594 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:43.594 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:44.191 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
+17:16:44.191 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:44.354 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
+17:16:44.354 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:44.357 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:45.808 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:56.854 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:56.855 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:56.982 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:57.063 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:59.728 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:17:01.202 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:17:01.203 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:17:02.179 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - ERROR
+17:17:02.179 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:17:02.382 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - ERROR
+17:17:02.382 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:17:02.384 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+17:17:03.811 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:13:43.413 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:13:43.650 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - INFO
+23:13:43.650 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - INFO
+23:13:43.651 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - INFO
+23:13:47.507 [TestNG-tests-3] INFO  c.b.config.BrowserStackConfig - ERROR
+23:13:47.507 [TestNG-tests-1] INFO  c.b.config.BrowserStackConfig - ERROR
+23:13:47.507 [TestNG-tests-2] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:22.358 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:25.653 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:25.726 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:25.746 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:29.917 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:30.482 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:30.485 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:30.487 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:42.139 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:42.292 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:48.023 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:48.024 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:48.935 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:48.935 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:49.092 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:49.092 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:49.250 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:49.250 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:49.398 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:49.896 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:49.897 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:50.056 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:50.092 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:50.092 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:50.249 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:50.249 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:50.406 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:50.406 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:50.552 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:50.552 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:50.701 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:50.701 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:50.860 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:51.129 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:51.129 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:51.288 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:51.288 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:51.454 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:51.454 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:51.630 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:51.630 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:51.784 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:51.784 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:51.936 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:51.936 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:52.097 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:52.430 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:52.430 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:52.621 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:52.913 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:52.913 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:53.101 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:53.177 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:53.177 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:53.328 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:53.438 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:53.438 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:53.583 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:53.859 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:53.859 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:54.014 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:54.079 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:54.079 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:54.258 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:54.339 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:54.340 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:54.488 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:54.617 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:54.617 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:54.807 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:55.161 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:55.161 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:55.303 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:55.380 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:55.380 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:55.552 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:55.552 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:55.706 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+23:23:55.706 [main] INFO  c.b.config.BrowserStackConfig - INFO
+23:23:55.706 [main] INFO  c.b.config.BrowserStackConfig - WARN
